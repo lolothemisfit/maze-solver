@@ -15,7 +15,7 @@ The robot can perform different moves to solve the maze (Forward, Back, Left, Ri
 
 
 The robot has the option to solve the maze manually or automatically with the use of an algorythym I created to solve the maze.
-To solve the maze automatically you use the move "mazerun" which also has the otion to solve the maze either Left, Right, Top, Bottom (these directions
+To solve the maze automatically you use the move "mazerun" which also has the option to solve the maze either Left, Right, Top, Bottom (these directions
 are the different exits for the maze.)
 
 The program can run on the terminal and has a visual illustration which I used the Turtle module to create.
